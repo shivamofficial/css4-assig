@@ -1,0 +1,243 @@
+h1{
+    text-align: center;
+     background-image: linear-gradient(to right, red ,green, yellow);
+}
+.x{
+    
+    height: 5em;
+    width: 30em;
+    border: 5px solid rgb(16, 16, 17);
+    border-radius: 15px;
+    background-color: rgb(168, 1103, 156);
+    margin-left: 530px;
+    color: rgb(94, 3, 3);
+    margin-bottom: 10px; 
+}
+
+ul{
+    position: relative;
+    bottom: 10px;
+    padding-top: 0px;
+   padding-left: 13em;
+}
+.box2
+{
+    background-image: linear-gradient(to right,red , yellow,  green);
+    height: 14em;
+    border: 5px solid rebeccapurple;
+    border-radius: 15px;
+
+}
+.lorem1
+{
+    height: 5em;
+    width: 23em;
+    border: 4px solid red;
+    border-radius: 15px;
+    position: relative;
+    left: 130px;
+    padding: 4px 4px 5px 5px;
+    margin: 4px 0px 0px 5px;
+    text-align: center;
+    background-color: rgb(51, 255, 0);
+}
+.lorem2
+{
+  
+    height: 5em;
+    width: 23em;
+    border: 4px solid red;
+    background-color: chartreuse;
+    border-radius: 15px;
+    position: relative;
+    left: 530px;
+    bottom: 100px;
+    padding: 4px 4px 5px 5px;
+    margin: 4px 0px 0px 5px;
+    text-align: center;  
+}
+.lorem3
+{
+    
+    height: 5em;
+    width: 23em;
+    border: 4px solid red;
+    border-radius: 15px;
+    position: relative;
+    left: 930px;
+    bottom: 200px;
+    padding: 4px 4px 5px 5px;
+    margin: 4px 0px 0px 5px;
+    text-align: center;
+    background-color: rgb(28, 255, 20);
+}
+.lorem4
+{
+    
+    height: 5em;
+    width: 23em;
+    border: 4px solid red;
+    border-radius: 15px;
+    position: relative;
+    left: 530px;
+    bottom: 180px;
+    padding: 4px 4px 5px 5px;
+    margin: 4px 0px 0px 5px;
+    text-align: center;
+    background-color: yellow;
+}
+.box3
+{
+    text-align: center;
+    background-image: linear-gradient(to right,red ,yellow,red);
+    
+}
+.b
+{
+    text-decoration: underline;
+}
+.box4
+{
+  background-image: radial-gradient(red,yellow,green);
+    display:flex;
+    height: 12em;
+    border: 3px solid black;
+    border-radius: 15px;
+    ;
+}
+.akash
+{
+border: 2px solid black;
+text-align: center;
+height: 105px;
+width: 255px;
+padding: 5px;
+background-color: aqua;
+border-radius: 15px;
+margin-top: 20px;
+margin-left: 90px;
+}
+.rishav
+{
+    
+border: 2px solid black;
+text-align: center;
+height: 105px;
+width: 265px;
+padding: 5px;
+background-color: aqua;
+border-radius: 15px;
+margin-top: 20px;
+margin-left: 70px;
+}
+.gaurav
+{
+    
+border: 2px solid black;
+text-align: center;
+height: 105px;
+width: 255px;
+padding: 5px;
+background-color: aqua;
+border-radius: 15px;
+margin-top: 20px;
+margin-left: 80px;
+}
+.shivam
+{
+    
+border: 2px solid black;
+text-align: center;
+height: 105px;
+width: 255px;
+padding: 5px;
+background-color: aqua;
+border-radius: 15px;
+margin-top: 20px;
+margin-left: 40px;
+}
+.c
+{
+    color: white;
+    background-color: red;
+    text-align: center;
+    font-size: 25px;
+}
+.grid-container
+{
+ display: grid;   
+ border: 3px solid green;
+ 
+ grid-template-columns:auto auto auto auto;
+ grid-template-rows: 60px auto auto auto ;
+ margin-top: 50px;
+ grid-gap:10px;
+ text-align: center;
+ border-radius: 20px;
+}
+.item1
+{
+    background-color: red;
+    color: white;
+    grid-column: 1/5;
+    text-align: center;
+    border-radius: 20px;
+}
+.item2
+{
+    background-color: rgb(137, 223, 80);
+    color: white;
+    font-size: 25px;
+    padding-top: 30px;   border-radius: 20px;
+
+
+}
+.item3
+{
+    padding-top: 30px;
+    background-color: rgb(127, 168, 255);
+    color: white;
+    font-size: 25px; 
+    border-radius: 20px;
+}
+.item4
+{
+   
+    padding-top: 20px;
+    background-color: rgb(255, 127, 223);
+    color: white;
+    font-size: 25px;  
+    border-radius: 20px;
+}
+.item5
+{
+    
+   
+    background-color: rgb(15, 14, 14);
+    color: white;
+    font-size: 25px; 
+    grid-column: 4/5;
+    grid-row: 2/4;
+    border-radius: 20px;
+}
+.item6
+{
+    
+   padding-top: 20px;
+    background-color: rgb(197, 119, 46);
+    color: white;
+    font-size: 20px; 
+    grid-column: 1/4;
+    border-radius: 20px;
+}
+.item7
+{
+    
+    border-radius: 20px;
+    background-color: rgb(117, 170, 86);
+    color: white;
+    font-size: 15px; 
+    padding-top: 20px;
+    grid-column: 1/5;
+    text-align: center;
+}
